@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\VICTUS\\Desktop\\Canciones\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|c:\\users\\victus\\desktop\\canciones\\canciones\\models\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|solutionrelative:canciones\\models\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|c:\\users\\victus\\desktop\\canciones\\canciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|solutionrelative:canciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|c:\\users\\victus\\desktop\\canciones\\canciones\\models\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|solutionrelative:canciones\\models\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|c:\\users\\victus\\desktop\\canciones\\canciones\\controllers\\cancionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|solutionrelative:canciones\\controllers\\cancionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|c:\\users\\victus\\desktop\\canciones\\canciones\\controllers\\artistascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|solutionrelative:canciones\\controllers\\artistascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|c:\\users\\victus\\desktop\\canciones\\canciones\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|solutionrelative:canciones\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|c:\\users\\victus\\desktop\\canciones\\canciones\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|solutionrelative:canciones\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|c:\\users\\victus\\desktop\\canciones\\canciones\\canciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|solutionrelative:canciones\\canciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|c:\\users\\victus\\desktop\\canciones\\canciones\\controllers\\artistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|solutionrelative:canciones\\controllers\\artistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|c:\\users\\victus\\desktop\\canciones\\canciones\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|solutionrelative:canciones\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|c:\\users\\victus\\desktop\\canciones\\canciones\\migrations\\20250604032226_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A41B20-D630-40F4-ADE1-D6C8CB1F118A}|Canciones\\Canciones.csproj|solutionrelative:canciones\\migrations\\20250604032226_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +50,129 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArtistasController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Controllers\\ArtistasController.cs",
+              "RelativeDocumentMoniker": "Canciones\\Controllers\\ArtistasController.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Controllers\\ArtistasController.cs",
+              "RelativeToolTip": "Canciones\\Controllers\\ArtistasController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:07:35.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CancionesController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Controllers\\CancionesController.cs",
+              "RelativeDocumentMoniker": "Canciones\\Controllers\\CancionesController.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Controllers\\CancionesController.cs",
+              "RelativeToolTip": "Canciones\\Controllers\\CancionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:08:05.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Models\\Artista.cs",
+              "RelativeDocumentMoniker": "Canciones\\Models\\Artista.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Models\\Artista.cs",
+              "RelativeToolTip": "Canciones\\Models\\Artista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:09:00.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Program.cs",
+              "RelativeDocumentMoniker": "Canciones\\Program.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Program.cs",
+              "RelativeToolTip": "Canciones\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:03:35.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250604032226_m1.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Migrations\\20250604032226_m1.cs",
+              "RelativeDocumentMoniker": "Canciones\\Migrations\\20250604032226_m1.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Migrations\\20250604032226_m1.cs",
+              "RelativeToolTip": "Canciones\\Migrations\\20250604032226_m1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:22:27.085Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Cancion.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Models\\Cancion.cs",
+              "RelativeDocumentMoniker": "Canciones\\Models\\Cancion.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Models\\Cancion.cs",
+              "RelativeToolTip": "Canciones\\Models\\Cancion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:09:39.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Canciones\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Canciones\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T02:39:49.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T03:10:58.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Canciones",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Canciones\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Canciones\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:15:17.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\appsettings.json",
+              "RelativeDocumentMoniker": "Canciones\\appsettings.json",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\appsettings.json",
+              "RelativeToolTip": "Canciones\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T03:03:32.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Canciones.csproj",
               "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Canciones.csproj",
               "RelativeDocumentMoniker": "Canciones\\Canciones.csproj",
               "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Canciones.csproj",
               "RelativeToolTip": "Canciones\\Canciones.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-04T02:39:11.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ArtistaController.cs",
-              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Controllers\\ArtistaController.cs",
-              "RelativeDocumentMoniker": "Canciones\\Controllers\\ArtistaController.cs",
-              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Canciones\\Canciones\\Controllers\\ArtistaController.cs",
-              "RelativeToolTip": "Canciones\\Controllers\\ArtistaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T02:38:22.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T02:39:11.353Z"
             }
           ]
         }
